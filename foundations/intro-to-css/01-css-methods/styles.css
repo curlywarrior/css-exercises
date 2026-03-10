@@ -1,0 +1,15 @@
+/* Styles */
+
+div {
+    color:white;
+    background-color: red;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    font-kerning: 50;
+}
+
+p {
+
+}
